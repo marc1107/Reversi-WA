@@ -8,6 +8,5 @@ object Reversi {
     println("Welcome to Reversi")
     new GUI().run
     new TUI().run
-
   }
 }
